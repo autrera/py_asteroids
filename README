@@ -1,0 +1,13 @@
+Doing an asteroids game tutorial using pygame
+
+### Install dependencies
+
+`pip3 install -r requirements.txt`
+
+### Run the game
+
+`python3 main.py`
+
+### Play
+
+Move with 'wasd' keys. Shooting TBD
